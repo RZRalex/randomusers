@@ -1,0 +1,14 @@
+.wrapper{
+    margin: 1em;
+    padding: 2em;
+    background-color: ghostwhite;
+}
+
+.wrapper h1{
+    text-align: center;
+}
+
+.card-deck{
+    flex-wrap: wrap;
+}
+
